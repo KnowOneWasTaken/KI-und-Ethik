@@ -3,10 +3,10 @@ Das ist eine Ausarbeitung (und Präsentation) über das Thema "KI und Ethik". Es
 # KI und Ethik
 ## Zwischen Utopie und Dystopie – Wie soll die KI der Zukunft aussehen?
 ## I. Einleitung:
-• KI ist die technische Nachahmung des menschlichen Gehirns
-• lernen mithilfe von großen Datenmengen
-• Ziel ist eine generelle künstliche Intelligenz (Artificial General Intelligence AGI)
-• Soll Tiefes Verständnis für sich und die Welt besitzen und viele Aufgaben erledigen können
+• KI ist die technische Nachahmung des menschlichen Gehirns <br />
+• lernen mithilfe von großen Datenmengen <br />
+• Ziel ist eine generelle künstliche Intelligenz (Artificial General Intelligence AGI) <br />
+• Soll Tiefes Verständnis für sich und die Welt besitzen und viele Aufgaben erledigen können <br />
 
 ## II. Chancen von KI:
 • Übernahme von (gefährlichen) Arbeiten
