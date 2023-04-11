@@ -604,31 +604,31 @@ https://www.youtube.com/watch?v=pYXy-A4siMw <br />
 
 ## I. Einleitung
 ### 1. Was ist künstliche Intelligenz?
-[Q1] Unterschiede zwischen maschinellem Lernen und neuronalem Netzwerk https://de.educationwiki.com/6463178-machine-learning-vs-neural-network
-[Q2] Research Paper on Artificial Intelligence
-https://www.academia.edu/29474272/Research_Paper_on_Artificial_Intelligence
-[Q3] AI Use Cases & Applications: In-Depth Guide for 2023
-https://research.aimultiple.com/ai-usecases/
-[Q4] eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers
-https://arxiv.org/pdf/2211.01324.pdf
-[Q5] Stable Diffusion 2.0 Release
-https://stability.ai/blog/stable-diffusion-v2-release
-[Q6] DALL·E 2
-https://openai.com/blog/dall-e/
-[Q7] Self-Distilled StyleGAN: Towards Generation from Internet Photos
-https://self-distilled-stylegan.github.io/
-[Q8] ChatGPT: Optimizing Language Models for Dialogue
-https://openai.com/blog/chatgpt/
-[Q9] A Generalist Agent
-https://www.deepmind.com/publications/a-generalist-agent
-[Q10] Artificial Intelligence & Ethics - Jonathan Shaw Seite 1-2
-https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations
-[Q32] By 2060 experts predict AI will beat us at everything
-https://www.digitaljournal.com/tech-science/by-2060-experts-predict-ai-will-beat-us-ateverything/article/494760
-### 2. Zusammenhang zwischen KI und Ethik
-[Q11] DeepMind: Safety and Ethics
-https://www.deepmind.com/safety-and-ethics
-[Q10] Artificial Intelligence & Ethics - Jonathan Shaw
+[Q1] Unterschiede zwischen maschinellem Lernen und neuronalem Netzwerk <br /> https://de.educationwiki.com/6463178-machine-learning-vs-neural-network <br />
+[Q2] Research Paper on Artificial Intelligence <br />
+https://www.academia.edu/29474272/Research_Paper_on_Artificial_Intelligence <br />
+[Q3] AI Use Cases & Applications: In-Depth Guide for 2023 <br />
+https://research.aimultiple.com/ai-usecases/ <br />
+[Q4] eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers <br />
+https://arxiv.org/pdf/2211.01324.pdf <br />
+[Q5] Stable Diffusion 2.0 Release <br />
+https://stability.ai/blog/stable-diffusion-v2-release <br />
+[Q6] DALL·E 2 <br />
+https://openai.com/blog/dall-e/ <br />
+[Q7] Self-Distilled StyleGAN: Towards Generation from Internet Photos <br />
+https://self-distilled-stylegan.github.io/ <br />
+[Q8] ChatGPT: Optimizing Language Models for Dialogue <br />
+https://openai.com/blog/chatgpt/ <br />
+[Q9] A Generalist Agent <br />
+https://www.deepmind.com/publications/a-generalist-agent <br />
+[Q10] Artificial Intelligence & Ethics - Jonathan Shaw Seite 1-2 <br />
+https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations <br />
+[Q32] By 2060 experts predict AI will beat us at everything <br />
+https://www.digitaljournal.com/tech-science/by-2060-experts-predict-ai-will-beat-us-ateverything/article/494760 <br />
+### 2. Zusammenhang zwischen KI und Ethik <br />
+[Q11] DeepMind: Safety and Ethics <br />
+https://www.deepmind.com/safety-and-ethics <br />
+[Q10] Artificial Intelligence & Ethics - Jonathan Shaw <br />
 https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations Seite 1-2 <br />
 
 ## II. Chancen von KI
