@@ -1,5 +1,5 @@
 Das ist eine Ausarbeitung (und Präsentation) über das Thema "KI und Ethik". Es handelt über die Vor- und Nachteile von KI, wie wir sie in Zukunft einsetzen sollten und beschreibt mögliche ethische Sichtweisen auf das Thema. Alles in diesem Repository darf mit korrekter Zitierung und Quellenangabe ohne Nachfrage verwendet werden. <br />
-Philipp Schröder - KI und Ethik - Zwischen Utopie und Dystopie – Wie soll die KI der Zukunft aussehen? - 20.01.2023
+Philipp Schröder - KI und Ethik - Zwischen Utopie und Dystopie – Wie soll die KI der Zukunft aussehen? - 20.01.2023 <br />
 https://github.com/KnowOneWasTaken/KI-und-Ethik/
 
 
