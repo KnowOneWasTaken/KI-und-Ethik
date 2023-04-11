@@ -223,7 +223,7 @@ jeweiligen Schülern verbringen kann. Ein weiterer Vorteil ist, dass Schüler au
 sind. Das hilft vor allem den Schülern, welche in einer schlechteren familiären Situation sind,
 wodurch soziale Gleichheit gestärkt wird. <br />
 
-## . Verbesserung von Entscheidungsprozessen
+## 6. Verbesserung von Entscheidungsprozessen
 Durch die Analyse vielseitiger Informationen einer Person können Entscheidungen, wie
 beispielsweise die Karriereplanung, objektiver und auf Grundlage von Fakten getroffen werden und
 damit das Ergebnis möglichst positiv beeinflussen. Es wird gesagt, dass Datensammler wie Google
@@ -237,7 +237,7 @@ und damit Wissen über das Tabu-Thema verbreitet, könnte das zur sozialen Gleic
 beitragen. Etwa 8,5% aller Deutschen sind überschuldet und eine bessere Finanzberatung könnte
 von großem Wert für die gesamte Bevölkerung sein. <br />
 
-## . Verbesserung von Sicherheitsprozessen
+## 7. Verbesserung von Sicherheitsprozessen
 Künstliche Intelligenzen könnten bei der zukünftigen Cybersecurity eine wichtige Rolle spielen.
 Zum Beispiel durch die Erkennung von Risiken und auffälligem Verhalten von voraussagenden
 Analyse-KI-Systemen. Dasselbe Prinzip lässt sich auf viele Bereiche übertragen, in denen große
@@ -249,7 +249,7 @@ Küstenwache diese Modelle, um Zeitpläne zu erstellen, damit es Terroristen mö
 gemacht wird. <br />
 
 # II. Risiken von KI
-## . Entscheidungsfindung
+## 1. Entscheidungsfindung
 Kann eine KI moralisch handeln? Es gibt viele verschiedene Meinungen zu diesem Thema und
 unterschiedliche philosophische Ansätze versuchen eine Antwort zu geben, welche im vierten
 Kapitel betrachtet werden. Ein großes Problem vieler KI-Systeme ist jedoch, dass sie eine Black
@@ -275,7 +275,7 @@ zum Entscheiden jener Handlung genutzt haben. Das ist auch der Grund, warum Mens
 schlecht darin sind, rational zu handeln. Das zeigt auch, dass Menschen kaum logisch Denken
 können und schon die frühsten Computer Menschen bei Logik und Mathematik übertroffen haben. <br />
 
-##2. Frage der Verantwortung
+## 2. Frage der Verantwortung
 Wenn eine KI eine Entscheidung trifft, wer ist dann für die Folgen dieser verantwortlich? Kann eine
 KI selbst zur Verantwortung gezogen werden oder sollten die Entwickler dafür haften? Zu diesem
 Thema gibt es unterschiedlichste Meinungen. Manche wollen den Nutzer der KI, manche die
@@ -316,7 +316,7 @@ sowohl „Gutes“ als auch „Schlechtes“ verwendet werden kann und eine Verh
 sowohl für Waffensysteme als auch für Krebstherapien genutzt werden. Jede Wissenschaft ist ein
 Werkzeug, dessen Einfluss auf die Welt mit der Verwendung dieses Werkzeuges zusammenhängt. <br/>
 
-## Gefahr der Diskriminierung und Vorurteile
+## 3. Gefahr der Diskriminierung und Vorurteile
 Schon Amazon hat KI-Systeme verwendet, um Personen einzustellen. Diese KI hat von historischen
 Daten gelernt, wie Personen davor angestellt worden sind. Es hat sich allerdings herausgestellt, dass
 diese KI „sexistisch“ ist, also Bewerbungen von Frauen kategorisch aussortiert hat. Ebenfalls gab es
@@ -633,94 +633,95 @@ https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations Seit
 
 ## II. Chancen von KI
 ### 1. Übernahme von (gefährlicher) Arbeit
-[Q19] 5 Super-Dangerous Jobs That Robots Can Do Safely by Alex Owen-Hill 
-https://blog.robotiq.com/5-super-dangerous-jobs-that-robots-can-do-safely
-### 2. Nachhaltigkeit und Landwirtschaft
-[Q14] Zha, Jiali. (2020). Artificial Intelligence in Agriculture. Journal of Physics: Conference 
-Series. 1693. 012058. 10.1088/1742-6596/1693/1/012058. 
-https://www.researchgate.net/publication/347804523_Artificial_Intelligence_in_Agriculture
-[Q15] Abduljabbar, Rusul & Dia, Hussein & Liyanage, Sohani & Bagloee, Saeed. (2019). 
+[Q19] 5 Super-Dangerous Jobs That Robots Can Do Safely by Alex Owen-Hill <br />
+https://blog.robotiq.com/5-super-dangerous-jobs-that-robots-can-do-safely <br />
+### 2. Nachhaltigkeit und Landwirtschaft 
+[Q14] Zha, Jiali. (2020). Artificial Intelligence in Agriculture. Journal of Physics: Conference <br />
+Series. 1693. 012058. 10.1088/1742-6596/1693/1/012058. <br />
+https://www.researchgate.net/publication/347804523_Artificial_Intelligence_in_Agriculture <br />
+[Q15] Abduljabbar, Rusul & Dia, Hussein & Liyanage, Sohani & Bagloee, Saeed. (2019).
 Applications of Artificial Intelligence in Transport: An Overview. Sustainability. 11. 189. 
-10.3390/su11010189. 
+10.3390/su11010189. <br />
 https://www.researchgate.net/publication/330110260_Applications_of_Artificial_Intelligence_in_Tr
-ansport_An_Overview
+ansport_An_Overview <br />
 ### 3. Wissenschaft
-[Q16] AlphaFold reveals the structure of the protein universe
-https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe
-[Q17] Advancing mathematics by guiding human intuition with AI
-https://www.nature.com/articles/s41586-021-04086-x
-[Q18] Unsupervised word embeddings capture latent knowledge from materials science 
-literature https://www.nature.com/articles/s41586-019-1335-8.epdf?
+[Q16] AlphaFold reveals the structure of the protein universe <br />
+https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe <br />
+[Q17] Advancing mathematics by guiding human intuition with AI <br />
+https://www.nature.com/articles/s41586-021-04086-x <br />
+[Q18] Unsupervised word embeddings capture latent knowledge from materials science literature <br />
+https://www.nature.com/articles/s41586-019-1335-8.epdf?
 sharing_token=8C4UlBU6eCmWYidoNkW2fNRgN0jAjWel9jnR3ZoTv0P9QxlcO86f_GXZRxwYi
 jrqa11Mx55SgniZXv55YKOR_sn816NK2x0O46Vim16XrS8mTVYS77WiibbPPbWy_CyDZ2i8fQ
 ilgyZZBTK4fdL9rIA0sXG2IUQMImQs8NX5n8HaWrPq9GmGejRGFm6467cpijmzWGw_5Qcs3h
-pJ8lHrrw%3D%3D&tracking_referrer=www.vice.com
-[Q33] AlphaFold- Wikipedia (Bildquelle)
-https://en.wikipedia.org/wiki/AlphaFold#/media/File:Protein_folding_figure.png
-### 4. Gesundheitssystem
-[Q19] Tahan M. Artificial Intelligence applications and psychology: an overview. 
-Neuropsychopharmacol Hung. 2019 Sep;21(3):119-126. PMID: 31537752. 
-https://pubmed.ncbi.nlm.nih.gov/31537752/
+pJ8lHrrw%3D%3D&tracking_referrer=www.vice.com <br />
+[Q33] AlphaFold- Wikipedia (Bildquelle) <br />
+https://en.wikipedia.org/wiki/AlphaFold#/media/File:Protein_folding_figure.png <br />
+### 4. Gesundheitssystem <br />
+[Q19] Tahan M. Artificial Intelligence applications and psychology: <br /> 
+an overview. Neuropsychopharmacol Hung. 2019 Sep;21(3):119-126. PMID: 31537752.  <br />
+https://pubmed.ncbi.nlm.nih.gov/31537752/ <br />
 [Q20] Ramesh AN, Kambhampati C, Monson JR, Drew PJ. Artificial intelligence in medicine. 
 Ann R Coll Surg Engl. 2004 Sep;86(5):334-8. doi: 10.1308/147870804290. PMID: 15333167; 
-PMCID: PMC1964229. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1964229/ <br />
+PMCID: PMC1964229. <br /> 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1964229/ <br />
 
-### 5. Bildung
-[Q21] Kengam, Jagadeesh. (2020). ARTIFICIAL INTELLIGENCE IN EDUCATION. 
-10.13140/RG.2.2.16375.65445. 
+### 5. Bildung <br />
+[Q21] Kengam, Jagadeesh. (2020). ARTIFICIAL INTELLIGENCE IN EDUCATION. <br />
+10.13140/RG.2.2.16375.65445. <br />
 https://www.researchgate.net/publication/347448363_ARTIFICIAL_INTELLIGENCE_IN_EDUC
-ATION
-[Q8] ChatGPT: Optimizing Language Models for Dialogue https://openai.com/blog/chatgpt/
-[Q21] Artificial Intelligence in Education: Benefits, Challenges, and Use Cases
-https://pub.towardsai.net/artificial-intelligence-in-education-benefits-challenges-and-use-casesdb52d8921f7a
-### 6. Verbesserung von Entscheidungsprozessen
-[Q22] Entwicklung der Überschuldungsquote in Deutschland von 2004 bis 2022
-https://de.statista.com/statistik/daten/studie/2448/umfrage/entwicklung-der-schuldnerquote-indeutschland-seit-2004/
-[Q23] Google Knows You Better Than You Know Yourself
-https://www.theatlantic.com/technology/archive/2014/08/google-knows-you-better-than-you-knowyourself/378608/
-[Q10] Artificial Intelligence & Ethics - Jonathan Shaw
-https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations Seite 5
-### 7. Verbesserung von Sicherheitsprozessen
-[Q24] Das, Rammanohar & Sandhane, Raghav. (2021). Artificial Intelligence in Cyber Security. 
-Journal of Physics: Conference Series. 1964. 042072. 10.1088/1742-6596/1964/4/042072. 
-https://www.researchgate.net/publication/353419449_Artificial_Intelligence_in_Cyber_Security
-[Q25] Artificial Intelligence and Security: Current Applications and Tomorrow’s Potentials
-https://emerj.com/ai-sector-overviews/artificial-intelligence-and-security-applications/
-## III. Risiken von KI
-[Q31] Ethics of Artificial Intelligence and Robotics - Vincent C. Müller
-https://plato.stanford.edu/entries/ethics-ai/
-[Q26] Coeckelbergh, Mark. (2020). Artificial Intelligence, Responsibility Attribution, and a 
-Relational Justification of Explainability. Science and Engineering Ethics. 26. 10.1007/s11948-
-019-00146-8. 
-https://www.researchgate.net/publication/336820072_Artificial_Intelligence_Responsibility_Attrib
-ution_and_a_Relational_Justification_of_Explainability Kapitel: Knowledge Problems: 
-Transparency and Explainability
-[Q27] Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on 
-mental processes. Psychological Review, 84, 231-259. 
-https://deepblue.lib.umich.edu/handle/2027.42/92167
-[Q28] The Turing Test https://plato.stanford.edu/entries/turing-test/
-[Q26] Coeckelbergh, Mark. (2020). Artificial Intelligence, Responsibility Attribution, and a 
-Relational Justification of Explainability. Science and Engineering Ethics. 26. 10.1007/s11948-
-019-00146-8. 
-https://www.researchgate.net/publication/336820072_Artificial_Intelligence_Responsibility_Attrib
-ution_and_a_Relational_Justification_of_Explainability Kapitel: The Problem of Responsibility 
-Attribution: Who or What is the Agent of Responsibility?
-[Q10] Artificial Intelligence & Ethics - Jonathan Shaw
-https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations Seite 2-3
+ATION <br />
 [Q8] ChatGPT: Optimizing Language Models for Dialogue https://openai.com/blog/chatgpt/ <br />
+[Q21] Artificial Intelligence in Education: Benefits, Challenges, and Use Cases <br />
+https://pub.towardsai.net/artificial-intelligence-in-education-benefits-challenges-and-use-casesdb52d8921f7a <br />
+### 6. Verbesserung von Entscheidungsprozessen 
+[Q22] Entwicklung der Überschuldungsquote in Deutschland von 2004 bis 2022 <br />
+https://de.statista.com/statistik/daten/studie/2448/umfrage/entwicklung-der-schuldnerquote-indeutschland-seit-2004/ <br />
+[Q23] Google Knows You Better Than You Know Yourself <br />
+https://www.theatlantic.com/technology/archive/2014/08/google-knows-you-better-than-you-knowyourself/378608/ <br />
+[Q10] Artificial Intelligence & Ethics - Jonathan Shaw <br />
+https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations Seite 5 <br />
+### 7. Verbesserung von Sicherheitsprozessen
+[Q24] Das, Rammanohar & Sandhane, Raghav. (2021). Artificial Intelligence in Cyber Security.  <br />
+Journal of Physics: Conference Series. 1964. 042072. 10.1088/1742-6596/1964/4/042072.  <br />
+https://www.researchgate.net/publication/353419449_Artificial_Intelligence_in_Cyber_Security <br />
+[Q25] Artificial Intelligence and Security: Current Applications and Tomorrow’s Potentials <br />
+https://emerj.com/ai-sector-overviews/artificial-intelligence-and-security-applications/ <br />
+## III. Risiken von KI
+[Q31] Ethics of Artificial Intelligence and Robotics - Vincent C. Müller <br />
+https://plato.stanford.edu/entries/ethics-ai/ <br />
+[Q26] Coeckelbergh, Mark. (2020). Artificial Intelligence, Responsibility Attribution, and a  
+Relational Justification of Explainability. Science and Engineering Ethics. 26. 10.1007/s11948-
+019-00146-8. <br />
+https://www.researchgate.net/publication/336820072_Artificial_Intelligence_Responsibility_Attrib
+ution_and_a_Relational_Justification_of_Explainability <br /> Kapitel: Knowledge Problems: 
+Transparency and Explainability <br />
+[Q27] Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on 
+mental processes. Psychological Review, 84, 231-259.  <br />
+https://deepblue.lib.umich.edu/handle/2027.42/92167 <br />
+[Q28] The Turing Test <br /> https://plato.stanford.edu/entries/turing-test/ <br />
+[Q26] Coeckelbergh, Mark. (2020). Artificial Intelligence, Responsibility Attribution, and a 
+Relational Justification of Explainability. Science and Engineering Ethics. 26. 10.1007/s11948-
+019-00146-8.  <br />
+https://www.researchgate.net/publication/336820072_Artificial_Intelligence_Responsibility_Attrib
+ution_and_a_Relational_Justification_of_Explainability  <br /> Kapitel: The Problem of Responsibility 
+Attribution: Who or What is the Agent of Responsibility? <br />
+[Q10] Artificial Intelligence & Ethics - Jonathan Shaw <br />
+https://www.harvardmagazine.com/2019/01/artificial-intelligence-limitations Seite 2-3 <br />
+[Q8] ChatGPT: Optimizing Language Models for Dialogue  <br /> https://openai.com/blog/chatgpt/ <br />
 
 ## IV. Philosophische Sichtweisen
-[Q12] Jeremy Bentham: “Eine Einführung in die Prinzipien der Moral und der Gesetzgebung”.
-In: Höffe, Otfried (Hrsg.): Einführung in die utilitaristische Ethik. Klassische und zeitgenössische 
-Texte, UTB 1683, A. Francke Verlag, Tübingen 1992, S. 55-8, S.55-58.
-[Q13] Utilitarismus https://www.philoclopedia.de/was-soll-ich-tun/normative-ethik/utilitarismus/
+[Q12] Jeremy Bentham: “Eine Einführung in die Prinzipien der Moral und der Gesetzgebung”. <br />
+In: Höffe, Otfried (Hrsg.): Einführung in die utilitaristische Ethik. Klassische und zeitgenössische  <br />
+Texte, UTB 1683, A. Francke Verlag, Tübingen 1992, S. 55-8, S.55-58. <br />
+[Q13] Utilitarismus <br /> https://www.philoclopedia.de/was-soll-ich-tun/normative-ethik/utilitarismus/ <br />
 [Q30] Deontological Ethics - Stanford Encyclopedia of Philosophy Larry Alexander, Michael 
-Moore https://plato.stanford.edu/entries/ethics-deontological/
-[Q34] Intro to AI Safety, Remastered – Robert Miles, Britischer KI-Forscher – University of 
-Nottingham; Vortrag über die Sicherheit von KI: 
-https://www.youtube.com/watch?v=pYXy-A4siMw
+Moore  <br /> https://plato.stanford.edu/entries/ethics-deontological/ <br />
+[Q34] Intro to AI Safety, Remastered – Robert Miles, Britischer KI-Forscher – University of  <br />
+Nottingham; Vortrag über die Sicherheit von KI:  <br />
+https://www.youtube.com/watch?v=pYXy-A4siMw <br />
 
 ## V. Lösungsansätze für ethische Probleme
 [Q29] UNESCO-Empfehlung zur Ethik Künstlicher Intelligenz. Bedingungen zur Implementierung 
-in Deutschland ISBN 978-3-947675-26-5 
+in Deutschland ISBN 978-3-947675-26-5  <br />
 https://www.unesco.de/sites/default/files/2022-03/DUK_Broschuere_KIEmpfehlung_DS_web_final.pd
